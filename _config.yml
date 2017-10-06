@@ -1,9 +1,9 @@
-url: https://status.narro.co
-author: NarroApp
-email: josh@narro.co
-title: Staticus
-description: The status page for the Narro API and services
-homepage: https://www.narro.co
+url: https://status.officeluv.com
+author: OfficeLuv
+email: development@officeluv.com
+title: OfficeLuv Status
+description: The status page for the OfficeLuv API and services
+homepage: https://www.officeluv.com
 
 permalink: pretty
 uptime_days: 60

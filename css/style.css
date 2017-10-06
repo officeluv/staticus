@@ -1,6 +1,6 @@
 
 body {
-    font-family: monospace;
+    font-family: Helvetica, Verdana, sans-serif;
     max-width: 40rem;
     margin: 1rem auto;
     padding: 0 1rem;
@@ -98,3 +98,35 @@ body {
 
 /* Place custom styling below */
 
+html {
+  background-color: #fcfcfc;
+}
+body {
+  padding: 1px 1rem;
+  margin: 2rem auto;
+  background-color: white;
+  border-radius: 4px;
+  box-shadow: 0 15px 35px rgba(50, 50, 93, 0.1), 0 5px 15px rgba(0, 0, 0, 0.07);
+}
+a {
+  text-decoration: none;
+}
+.tags .tag.maintenance {
+  color: #4CB0B9;
+  border-color: #4CB0B9;
+}
+.tags .tag.apps {
+  color: #A45FAA;
+  border-color: #A45FAA;
+}
+.tags .tag.data {
+  color: #00a98c;
+  border-color: #00a98c;
+}
+.posts .post,
+.tags .tag {
+  border-radius: 4px;
+}
+.uptime-scale > span {
+  color: grey;
+}
